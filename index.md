@@ -1,7 +1,11 @@
 # IE 423 Progress Journal
 
-We are the Group X. Our group members are:
-1. Hacı Mehmet İnce
+We are the Group 6. Our group members are:
+1. HACI MEHMET İNCE
+2. İZEL UYGUR
+3. KADİR AHMET AKSU
+4. NAZ BERİL AKAN
+5. RAMAZAN ERASLAN
 
 
 ## Project Part 1
