@@ -8,7 +8,8 @@ We are the Group 6. Our group members are:
 5. RAMAZAN ERASLAN
 
 
-## Project Part 1
-[Here](423-Proje-1.html) is our Project Part 1-Html.
+## Project Part 1  
+[Here](423-Proje-1.html) is our Project Part 1-Html.  
+
 [Here](423-Proje-1.R) is our Project Part 1-R script.
 
