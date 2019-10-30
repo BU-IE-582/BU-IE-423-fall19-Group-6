@@ -1,5 +1,5 @@
 # fall19-hmehmetince
-fall19-hmehmetince created by GitHub Classroom consists of the project of Group 6
+BU-IE-423-fall19-Group-6 consists of the project of Group 6
 
 Our group members are:
 
