@@ -13,3 +13,7 @@ We are the Group 6. Our group members are:
 
 [Here](files/423-Proje-1.R) is our Project Part 1-R script.
 
+[Here](files/) is our Project Part 2-Html.  
+
+[Here](files/) is our Project Part 2-R script.
+
