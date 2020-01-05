@@ -19,3 +19,10 @@ We are the Group 6. Our group members are:
 
 [Here](files/423-Proje-2.R) is our Project Part 2-R script.
 
+
+## Project Part 3
+[Here](files/423-Proje-3.html) is our Project Part 3-Html.  
+
+[Here](files/423-Proje-3.R) is our Project Part 3-R script.
+
+
